@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidChallenge</string>
+    <string name="article_title">Article Title</string>
+    <string name="source">Source</string>
+    <string name="_2023_10_18">2023-10-18</string>
+    <string name="section">Section</string>
+    <string name="show_details">\n    Show 40 items:\n    - 20 items from the first period request:\n      https://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/30.json?api-key=d4q1Mr1Or4Am6rhoHuvtpkqE2gDp211P\n    - 20 items from the second period request:\n      https://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/1.json?api-key=d4q1Mr1Or4Am6rhoHuvtpkqE2gDp211P\n    And return them in one list together after getting the response from both with deffered coroutines and concate them in one list together as required.\n</string>
+
+</resources>
